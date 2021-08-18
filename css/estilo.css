@@ -1,0 +1,12 @@
+input {
+    vertical-align:middle;
+}
+
+.login{
+
+	margin:auto;
+	max-width: 350px;
+	box-shadow: .5px .8px 15px teal;
+	border-radius: 3px;
+
+}
